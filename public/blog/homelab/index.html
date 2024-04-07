@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>My humble home-lab | jackal 🦌</title>
+<meta name="title" content="My humble home-lab" />
+<meta name="description" content="Intro Hello! I&rsquo;ve not really figured out how to write in the style of a blog yet, so this probably comes across as somewhere between a Twitter thread and formal presentation.
+I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn&rsquo;t really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn&rsquo;t that interested in the GPIO capabilities outside of a university project, and wanted something more powerful to play with." />
+<meta name="keywords" content="" />
+
+
+<meta property="og:title" content="My humble home-lab" />
+<meta property="og:description" content="Intro Hello! I&rsquo;ve not really figured out how to write in the style of a blog yet, so this probably comes across as somewhere between a Twitter thread and formal presentation.
+I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn&rsquo;t really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn&rsquo;t that interested in the GPIO capabilities outside of a university project, and wanted something more powerful to play with." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/blog/homelab/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2023-05-29T12:37:58+01:00" />
+<meta property="article:modified_time" content="2023-05-29T12:37:58+01:00" />
+
+
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="My humble home-lab"/>
+<meta name="twitter:description" content="Intro Hello! I&rsquo;ve not really figured out how to write in the style of a blog yet, so this probably comes across as somewhere between a Twitter thread and formal presentation.
+I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn&rsquo;t really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn&rsquo;t that interested in the GPIO capabilities outside of a university project, and wanted something more powerful to play with."/>
+
+
+
+<meta itemprop="name" content="My humble home-lab">
+<meta itemprop="description" content="Intro Hello! I&rsquo;ve not really figured out how to write in the style of a blog yet, so this probably comes across as somewhere between a Twitter thread and formal presentation.
+I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn&rsquo;t really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn&rsquo;t that interested in the GPIO capabilities outside of a university project, and wanted something more powerful to play with."><meta itemprop="datePublished" content="2023-05-29T12:37:58+01:00" />
+<meta itemprop="dateModified" content="2023-05-29T12:37:58+01:00" />
+<meta itemprop="wordCount" content="704">
+<meta itemprop="keywords" content="" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>jackal 🦌</h2>
+</a>
+<nav><a href="/">Home</a>
+
+
+<a href="/blog">Blog</a>
+
+</nav>
+</header>
+  <main>
+
+<h1>My humble home-lab</h1>
+<p>
+  <i>
+    <time datetime='2023-05-29' pubdate>
+      29 May, 2023
+    </time>
+  </i>
+</p>
+
+<content>
+  <h2 id="intro">Intro</h2>
+<p>Hello! I&rsquo;ve not really figured out how to write in the style of a blog yet, so this probably comes across as somewhere between a Twitter thread and formal presentation.</p>
+<p>I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn&rsquo;t really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn&rsquo;t that interested in the GPIO capabilities outside of a <a href="https://www.youtube.com/watch?v=J1y6sschMHc">university project</a>, and wanted something more powerful to play with.</p>
+<p><img src="/static/img/homelab/pc.jpg" alt=""></p>
+<h2 id="enter-the-hp-prodesk">Enter, the HP ProDesk!</h2>
+<p><img src="/static/img/homelab/hp.jpg" alt=""></p>
+<p>I found this back in February, and aside from looking like it was pulled from a school computer lab, it checked all my boxes:</p>
+<ul>
+<li>Power efficient - Reasonably modern T-sku CPU (Full support for <a href="https://metebalci.com/blog/a-minimum-complete-tutorial-of-cpu-power-management-c-states-and-p-states/">ACPI C-states</a>), uses &lt;5W while idle!</li>
+<li>Hyperthreading for multithreaded workloads</li>
+<li>8GB RAM + 256GB SSD included (No idea about the specs, but saved me money)</li>
+<li>£70, which was cheaper than anything else I could find at the time</li>
+</ul>
+<p>The only issue was 1 broken USB port which I didn&rsquo;t mind, and a blemish I couldn&rsquo;t find.</p>
+<p>For now, I&rsquo;m using an old USB <a href="https://www.apple.com/uk/shop/product/HKVD2ZM/A/lacie-1tb-rugged-usb-c-portable-drive">LaCie drive</a> I had lying around for media storage, formatted in exFAT so I can still read/write from macOS &amp; Windows.</p>
+<p>It arrived running Windows 10 with a registered project key (!) alas, I formatted it and installed Ubuntu Server 22.04, for no reason other than familiarity. I updated &amp; upgraded, copied over my SSH keys, and did the other boring stuff.</p>
+<h2 id="containers">Containers</h2>
+<p>I had Home Assistant and Plex <del>running</del> crawling on my Raspberry Pi, and this was my first experience managing multiple services running on bare metal on one machine.</p>
+<p>As you can imagine, dealing with conflicting ports and dependencies was a headache - <a href="https://github.com/pi-hole/pi-hole/issues/1785"><em>looking at you, Pi-hole</em></a> - and since I was starting from fresh I wanted to learn more about running Docker properly.  <em>~In Production~</em> I guess.</p>
+<p>I migrated existing services over to the new containerised versions, which was surprisingly painless. I used docker-compose to deploy them, with much help from the <a href="https://linuxserver.io">linuxserver.io images &amp; docs</a>.</p>
+<p>I later learnt about <a href="https://portainer.io">Portainer</a> which I now use to reduce the amount of time spent finding container logs &amp; managing things from the terminal.</p>
+<h2 id="external-access">External Access</h2>
+<p>For a while I exposed the <em>raw, unadulterated ports</em> of my self-hosted services to the internet, and watched fail2ban go to work on the deluge of bot attacks, predominately originating from China and DigitalOcean. This made me uneasy, and I wanted to add another layer of security to my home-lab.</p>
+<p><img src="/static/img/homelab/fail2banlogs.jpg" alt=""></p>
+<p>Despite some personal reservations on CloudFlare&rsquo;s <a href="https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos">policies</a>, as far as I know there&rsquo;s no similar free-tier service available for hobbyists.</p>
+<p>I&rsquo;m using a Cloudflare Tunnel to expose Home Assistant &amp; SSH to the internet, protected behind SSO. This mitigates some risks but introduces some new ones:</p>
+<ul>
+<li>No longer exposing any ports from my home network, preventing bots from bruteforcing/exploiting possible future vulnerabilities 👍</li>
+<li>An approved login method, verified through CloudFlare, is now required before any services can be reached 👍</li>
+<li>Since Cloudflare is proxying traffic going to/from my server, they now have the ability to inspect/analyse this 👎</li>
+<li>I now have a permanently running, self-updating binary running that has access to my system &amp; local network (I could improve this with segmentation, but for now 👎)</li>
+</ul>
+<p>I followed a few different <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/use-cases/ssh/#connect-to-ssh-server-with-cloudflared-access">tutorials</a> on how to tunnel different protocols and applications. The process basically involves:</p>
+<ol>
+<li>Setting up DNS records on your domain to point towards Cloudflare</li>
+<li>Downloading &amp; configuring the <a href="https://github.com/cloudflare/cloudflared">cloudflared</a> client with your token</li>
+<li>Assigning it a place on your domain (e.g. <em>ssh.example.org</em>)</li>
+<li>And if you want to add IAM (which I&rsquo;d highly recommend), setting it up as an as an <a href="https://developers.cloudflare.com/cloudflare-one/applications/configure-apps/self-hosted-apps/">Application</a></li>
+</ol>
+<p>Now I can use Home Assistant or SSH into my machine from anywhere with a pretty URL and login screen! 😇</p>
+<p><img src="/static/img/homelab/cfzero.jpg" alt=""></p>
+<h2 id="down-the-home-assistant-rabbithole-todo">Down the Home Assistant Rabbithole (todo)</h2>
+<h3 id="privacy-friendly-location-history-todo">Privacy-friendly location history (todo)</h3>
+<h2 id="media-management-todo">Media Management (todo)</h2>
+<p>I&rsquo;m gonna try write the rest of this up but I&rsquo;ve had too much coffee today and need to go buy groceries now.</p>
+<p>Thank you for reading if you made it all the way down to here! Please <a href="mailto:jack@imap.cc">email me</a> or DM me wherever if you want to chat 💕</p>
+
+</content>
+<p>
+  
+</p>
+
+  </main>
+  <footer>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>
