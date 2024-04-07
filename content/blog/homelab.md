@@ -6,8 +6,6 @@ draft = false
 
 ## Intro
 
-Hello! I've not really figured out how to write in the style of a blog yet, so this probably comes across as somewhere between a Twitter thread and formal presentation. 
-
 I've been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn't really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn't that interested in the GPIO capabilities outside of a [university project](https://www.youtube.com/watch?v=J1y6sschMHc), and wanted something more powerful to play with.
 
 ![](/images/homelab/pc.jpg)
@@ -18,25 +16,27 @@ I've been tinkering with secondary computers since I got a Pi 3B for my birthday
 
 I found this back in February, and aside from looking like it was pulled from a school computer lab, it checked all my boxes:
 
-- Power efficient - Reasonably modern T-sku CPU (Full support for [ACPI C-states](https://metebalci.com/blog/a-minimum-complete-tutorial-of-cpu-power-management-c-states-and-p-states/)), uses <5W while idle!
+- Power efficient - Reasonably modern T-sku CPU (Full support for [ACPI C-states](https://metebalci.com/blog/a-minimum-complete-tutorial-of-cpu-power-management-c-states-and-p-states/)), uses approx 5W while idle
 - Hyperthreading for multithreaded workloads
-- 8GB RAM + 256GB SSD included (No idea about the specs, but saved me money)
+- 8GB RAM + 256GB M.2 SSD included
 - £70, which was cheaper than anything else I could find at the time
 
 The only issue was 1 broken USB port which I didn't mind, and a blemish I couldn't find.
 
 For now, I'm using an old USB [LaCie drive](https://www.apple.com/uk/shop/product/HKVD2ZM/A/lacie-1tb-rugged-usb-c-portable-drive) I had lying around for media storage, formatted in exFAT so I can still read/write from macOS & Windows.
 
-It arrived running Windows 10 with a registered project key (!) alas, I formatted it and installed Ubuntu Server 22.04, for no reason other than familiarity. I updated & upgraded, copied over my SSH keys, and did the other boring stuff.
+It arrived running Windows 10 with a registered project key (!) alas, I formatted it and installed Ubuntu Server 22.04 as I'm most familar with it (linuxbros pls forgive me). I updated & upgraded, copied over my SSH keys, and was ready to roll!
 
 ## Containers
-I had Home Assistant and Plex ~~running~~ crawling on my Raspberry Pi, and this was my first experience managing multiple services running on bare metal on one machine. 
+Previouslly I had Home Assistant and Plex ~~running~~ crawling on my Raspberry Pi, and this was my first experience managing multiple services running on bare metal on one machine. 
 
-As you can imagine, dealing with conflicting ports and dependencies was a headache - [*looking at you, Pi-hole*](https://github.com/pi-hole/pi-hole/issues/1785) - and since I was starting from fresh I wanted to learn more about running Docker properly.  *~In Production~* I guess.
+As you can imagine, dealing with conflicting ports and dependencies was a headache - [*looking at you, Pi-hole*](https://github.com/pi-hole/pi-hole/issues/1785) - and since I was starting from fresh I wanted to learn more about containerisation.
 
-I migrated existing services over to the new containerised versions, which was surprisingly painless. I used docker-compose to deploy them, with much help from the [linuxserver.io images & docs](https://linuxserver.io). 
+I migrated existing services over to the new containerised versions, which was surprisingly painless. I used docker-compose to deploy them, with much help from the [linuxserver.io images & docs](https://linuxserver.io), transferring my existing configs for each service.
 
-I later learnt about [Portainer](https://portainer.io) which I now use to reduce the amount of time spent finding container logs & managing things from the terminal.
+I later learnt about [Portainer](https://portainer.io) which I now use to reduce the amount of time spent in the command line, since it allows for monitoring & spinning up/down containers in a web UI.
+
+![](/images/homelab/portainer.jpg)
 
 ## External Access
 
@@ -44,7 +44,7 @@ For a while I exposed the *raw, unadulterated ports* of my self-hosted services 
 
 ![](/images/homelab/fail2banlogs.jpg)
 
-I'm using a Cloudflare Tunnel to expose Home Assistant & SSH to the internet, protected behind SSO. It's crazy how many of Cloudflare's services are available on the free tier! This method mitigates some risks but introduces some new ones:
+I'm using a Cloudflare Tunnel to expose Home Assistant & SSH to the internet, protected behind SSO. It's impressive how many Cloudflare services are available on the free tier... This method mitigates some risks but introduces some new ones:
 
 - No longer exposing any ports from my home network, preventing bots from bruteforcing/exploiting possible future vulnerabilities 👍
 - An approved login method, verified through CloudFlare, is now required before any services can be reached 👍
@@ -61,8 +61,3 @@ I followed a few different [tutorials](https://developers.cloudflare.com/cloudfl
 Now I can use Home Assistant or SSH into my machine from anywhere with a pretty URL and login screen! 😇
 
 ![](/images/homelab/cfzero.jpg)
-
-## Down the Home Assistant Rabbithole (todo)
-## Privacy-friendly location history (todo)
-## Media Management (todo)
-
