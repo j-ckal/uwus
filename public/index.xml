@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>uwus.org 𐂂</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on uwus.org 𐂂</description>
+    <title>𐂂</title>
+    <link>https://uwus.org/</link>
+    <description>Recent content on 𐂂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Apr 2024 16:28:18 +0100</lastBuildDate>
+    <atom:link href="https://uwus.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful tools</title>
+      <link>https://uwus.org/useful-tools/</link>
+      <pubDate>Sun, 07 Apr 2024 16:28:18 +0100</pubDate>
+      <guid>https://uwus.org/useful-tools/</guid>
+      <description>I&amp;rsquo;m transferring my website over to Hugo so this list is from my original website, with a few added extras whenver I remember to update it.&#xA;Productivity Pomofocus - Simple Pomodoro timer for breaking down tasks. Countdowns (iOS) - I like to put nice calendar events (holidays, gigs, etc) in here to remind me what I&amp;rsquo;ve got to look forward to. Boring Calendar/Reminders - Because I also need to remember when I&amp;rsquo;ve got meetings/no toothpaste left.</description>
+    </item>
     <item>
       <title>My humble home-lab</title>
-      <link>http://localhost:1313/my-humble-home-lab/</link>
+      <link>https://uwus.org/my-humble-home-lab/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-humble-home-lab/</guid>
+      <guid>https://uwus.org/my-humble-home-lab/</guid>
       <description>Intro I&amp;rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn&amp;rsquo;t really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn&amp;rsquo;t that interested in the GPIO capabilities outside of a university project, and wanted something more powerful to play with.&#xA;Enter, the HP ProDesk! I found this back in February, and aside from looking like it was pulled from a school computer lab, it checked all my boxes:</description>
     </item>
   </channel>
