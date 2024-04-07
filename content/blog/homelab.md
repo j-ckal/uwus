@@ -10,11 +10,11 @@ Hello! I've not really figured out how to write in the style of a blog yet, so t
 
 I've been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn't really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn't that interested in the GPIO capabilities outside of a [university project](https://www.youtube.com/watch?v=J1y6sschMHc), and wanted something more powerful to play with.
 
-![](static/images/homelab/pc.jpg)
+![](/static/images/homelab/pc.jpg)
 
 ## Enter, the HP ProDesk!
 
-![](static/images/homelab/hp.jpg)
+![](/static/images/homelab/hp.jpg)
 
 I found this back in February, and aside from looking like it was pulled from a school computer lab, it checked all my boxes:
 
@@ -42,7 +42,7 @@ I later learnt about [Portainer](https://portainer.io) which I now use to reduce
 
 For a while I exposed the *raw, unadulterated ports* of my self-hosted services to the internet, and watched fail2ban go to work on the deluge of bot attacks, predominately originating from China and DigitalOcean. This made me uneasy, and I wanted to add another layer of security to my home-lab.
 
-![](static/images/homelab/fail2banlogs.jpg)
+![](/static/images/homelab/fail2banlogs.jpg)
 
 I'm using a Cloudflare Tunnel to expose Home Assistant & SSH to the internet, protected behind SSO. It's crazy how many of Cloudflare's services are available on the free tier! This method mitigates some risks but introduces some new ones:
 
@@ -60,7 +60,7 @@ I followed a few different [tutorials](https://developers.cloudflare.com/cloudfl
 
 Now I can use Home Assistant or SSH into my machine from anywhere with a pretty URL and login screen! 😇
 
-![](static/images/homelab/cfzero.jpg)
+![](//static/images/homelab/cfzero.jpg)
 
 ## Down the Home Assistant Rabbithole (todo)
 ## Privacy-friendly location history (todo)
