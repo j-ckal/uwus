@@ -239,9 +239,9 @@ I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my bi
   <h2 id="intro">Intro</h2>
 <p>Hello! I&rsquo;ve not really figured out how to write in the style of a blog yet, so this probably comes across as somewhere between a Twitter thread and formal presentation.</p>
 <p>I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my birthday in 2016, but didn&rsquo;t really use it for what I imagined a server to be, outside of installing Pi-hole to do DNS-level ad blocking. I wasn&rsquo;t that interested in the GPIO capabilities outside of a <a href="https://www.youtube.com/watch?v=J1y6sschMHc">university project</a>, and wanted something more powerful to play with.</p>
-<p><img src="static/images/homelab/pc.jpg" alt=""></p>
+<p><img src="/images/homelab/pc.jpg" alt=""></p>
 <h2 id="enter-the-hp-prodesk">Enter, the HP ProDesk!</h2>
-<p><img src="static/images/homelab/hp.jpg" alt=""></p>
+<p><img src="/images/homelab/hp.jpg" alt=""></p>
 <p>I found this back in February, and aside from looking like it was pulled from a school computer lab, it checked all my boxes:</p>
 <ul>
 <li>Power efficient - Reasonably modern T-sku CPU (Full support for <a href="https://metebalci.com/blog/a-minimum-complete-tutorial-of-cpu-power-management-c-states-and-p-states/">ACPI C-states</a>), uses &lt;5W while idle!</li>
@@ -259,7 +259,7 @@ I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my bi
 <p>I later learnt about <a href="https://portainer.io">Portainer</a> which I now use to reduce the amount of time spent finding container logs &amp; managing things from the terminal.</p>
 <h2 id="external-access">External Access</h2>
 <p>For a while I exposed the <em>raw, unadulterated ports</em> of my self-hosted services to the internet, and watched fail2ban go to work on the deluge of bot attacks, predominately originating from China and DigitalOcean. This made me uneasy, and I wanted to add another layer of security to my home-lab.</p>
-<p><img src="static/images/homelab/fail2banlogs.jpg" alt=""></p>
+<p><img src="/images/homelab/fail2banlogs.jpg" alt=""></p>
 <p>I&rsquo;m using a Cloudflare Tunnel to expose Home Assistant &amp; SSH to the internet, protected behind SSO. It&rsquo;s crazy how many of Cloudflare&rsquo;s services are available on the free tier! This method mitigates some risks but introduces some new ones:</p>
 <ul>
 <li>No longer exposing any ports from my home network, preventing bots from bruteforcing/exploiting possible future vulnerabilities 👍</li>
@@ -275,7 +275,7 @@ I&rsquo;ve been tinkering with secondary computers since I got a Pi 3B for my bi
 <li>And if you want to add IAM (which I&rsquo;d highly recommend), setting it up as an as an <a href="https://developers.cloudflare.com/cloudflare-one/applications/configure-apps/self-hosted-apps/">Application</a></li>
 </ol>
 <p>Now I can use Home Assistant or SSH into my machine from anywhere with a pretty URL and login screen! 😇</p>
-<p><img src="static/images/homelab/cfzero.jpg" alt=""></p>
+<p><img src="/images/homelab/cfzero.jpg" alt=""></p>
 <h2 id="down-the-home-assistant-rabbithole-todo">Down the Home Assistant Rabbithole (todo)</h2>
 <h2 id="privacy-friendly-location-history-todo">Privacy-friendly location history (todo)</h2>
 <h2 id="media-management-todo">Media Management (todo)</h2>
