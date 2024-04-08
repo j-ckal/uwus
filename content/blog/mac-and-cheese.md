@@ -1,6 +1,6 @@
 +++
-title = "Dad's Mac & Cheese"
-date = "2024-04-07T17:39:53+01:00"
+title = "Dad's mac & cheese"
+date = "2023-12-02"
 +++
 
 ![](/images/mac-and-cheese/yum.jpeg)
