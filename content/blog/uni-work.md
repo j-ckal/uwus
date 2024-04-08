@@ -1,5 +1,5 @@
 +++
-title = "Uni Work"
+title = "Uni work"
 date = "2021-06-01"
 +++
 
