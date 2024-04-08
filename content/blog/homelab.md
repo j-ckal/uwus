@@ -2,6 +2,7 @@
 title = 'My humble home-lab'
 date = 2023-05-29
 draft = false
+slug = 'homelab'
 +++
 
 ## Intro
