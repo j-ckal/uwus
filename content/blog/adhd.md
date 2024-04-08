@@ -1,5 +1,5 @@
 +++
-title = "Rambling about ADHD & agency"
+title = "Rambling about ADHD"
 date = "2024-04-08T17:54:09+01:00"
 slug = 'adhd'
 +++
