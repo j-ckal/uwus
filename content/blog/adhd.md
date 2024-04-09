@@ -10,13 +10,17 @@ Everyone's brain is different, I've had mixed success with different methods of 
 
 Putting some here so I remember them.
 
-- **Don't get lost in structure/planning.** Playing around with productivity tools is fun, whenever I find a new shiny *habit tracker*/pomodoro app/planning tool like Notion, I'll inevitably spend countless hours deciding how I'm gonna use it, then never track a real task. Personally I use the stock Reminders, Calendar, Email & Notes apps.
+- **Don't get lost in structure/planning.** Playing around with productivity tools is fun, whenever I find a new shiny *habit tracker*/pomodoro app/planning tool like Notion, I'll inevitably spend countless hours deciding how I'm gonna use it, then never track a real task. Personally I use the stock Reminders, Calendar, Email & Notes apps 🗓️
 
-- **Start building things before you're ready.** Build on top of the quickstart tutorial, learn by doing.
+- **Start building things before you're ready.** Build on top of the quickstart tutorial, learn by doing 💪
 
-- **Learn in varied formats.** If I'm reading a book I'm much more likely to finish it if I also have the audiobook version. It's nice listening while moving.
+- **Learn in varied formats.** If I'm reading a book I'm much more likely to finish it if I also have the audiobook version. It's nice listening while moving 🏃‍♂️
 
 - **Take breaks.** Little & often innit 👍 Know when your brain is mush.
+
+- **Try not to overstimulate yourself.** It's tempting to listen to music/podcasts/YouTube every waking minute for me, but it definitely tricks my brain into thinking I've achieved something when I hear an interesting story or concept explained instead of doing what I planned to do 😭 Also quiet time is important for learning & forming memories so **STOP CONSOOOOOMING**.
+
+- **Stay faaaaar away from any potential addictions.** Vaping is expensive :(
 
 ## Background
 
