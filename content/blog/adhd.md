@@ -4,31 +4,43 @@ date = "2024-04-08T17:54:09+01:00"
 slug = 'adhd'
 +++
 
+I was formally diagnosed with ADHD in November 2023, and it seems like a common sentiment but looking back it seems incredibly obvious. I've dumped some thoughts here I've had on it since then! 😇
+
+## What it's like
+
+I think for most of history ADHD was just termed *laziness*. Like, what do you mean you can be given a simple task and spend the next hour looking out the window? (or staring at your phone, or scrolling through random documents on your computer...)
+
+Excutive dysfunction is stigmatised, and it can be frustrating for others when not managed well. It's hard to blame people for expecting you to meet social conventions of percieved effort, but unfortunately brains and people are complicated.
+
+Basically, if the subject doesn't engage me at the time, it's difficult to initiate or process thoughts about how to do it. You just sort of sit there, head full of thoughts I didn't want, that I couldn't stop, about things I didn't want to care about. 
+
+...On the other hand, *ADHD brain* has an incredible capacity for intuiting things through guesswork and iteration. This didn't work well in school unfortunately, where teachers were stumped at how I managed to (almost) correctly calculate long division without a scribble of working. This part does have its upsides though.
+
 ## Strategies that work for me
 
 Everyone's brain is different, I've had mixed success with different methods of learning/planning/paying attention but I'm sure they won't work for everyone. 
 
 Putting some here so I remember them.
 
-- **Don't get lost in structure/planning.** Playing around with productivity tools is fun, whenever I find a new shiny *habit tracker*/pomodoro app/planning tool like Notion, I'll inevitably spend countless hours deciding how I'm gonna use it, then never track a real task. Personally I use the stock Reminders, Calendar, Email & Notes apps 🗓️
+- **Don't get lost in structure/planning.** Productivity tools are fun. This is dangerous. whenever I find a new shiny *Habit Tracker*/Pomodoro App/Planning Tool (e.g. Notion), I'll inevitably spend hours deciding how I'm gonna use it, then never track a real task. Personally I use the stock Reminders, Calendar, Email & Notes apps 🗓️
 
-- **Start building things before you're ready.** Build on top of the quickstart tutorial, learn by doing 💪
+- **Start building things before you're ready.** As soon as you have the idea/interest, start building on top of the [quick-start tutorial](https://gohugo.io/getting-started/quick-start/), learn by doing, etc. 💪
 
 - **Learn in varied formats.** If I'm reading a book I'm much more likely to finish it if I also have the audiobook version. It's nice listening while moving 🏃‍♂️
 
-- **Take breaks.** Little & often innit 👍 Know when your brain is mush.
+- **Take breaks.** Little & often innit 👍  Know when your brain is mush and accept that there's a daily cap of how much it can absorb.
 
-- **Try not to overstimulate yourself.** It's tempting to listen to music/podcasts/YouTube every waking minute for me, but it definitely tricks my brain into thinking I've achieved something when I hear an interesting story or concept explained instead of doing what I planned to do 😭 Also quiet time is important for learning & forming memories so **STOP CONSOOMING!**
+- **Take notes.** In whatever format you're feeling at the time. My notes app is a flurry of voice notes, rambles (that I based this post on), images, etc. Sort as much as you prefer, but keyword search is good enough for me.
 
-- **Be wary of addiction.** Vaping is expensive & TikTok fries your dopamine receptors.
+- **Try not to overstimulate yourself.** It's tempting to listen to music/podcasts/YouTube every waking minute, but it tricks my brain into feeling productive when I hear an interesting story or concept explained instead of doing what I planned to do 😭 ...Also quiet time is important for learning & forming memories so **STOP OVERCONSOOMING!**
 
-- **Turn on subtitles everywhere!** Watching TV/movies with subtitles on is apparently sacrilege 🫣 It helps when I'm tired or when my tiny TV speakers struggle to decypher dialogue. You can turn on subtitles for any video/audio source in Chrome using *Live Captions*, as well as in MS Teams under *Captions and transcripts*. It also lets you scroll up through the last few sentences. It has saved me many times.
+- **Be wary of addiction.** Vaping is expensive & TikTok fries your dopamine receptors. Good luck.
+
+- **Turn on subtitles everywhere!** Watching TV/movies with subtitles on is apparently sacrilege? 🫣 It helps when I'm tired or when my tiny TV speakers struggle to decypher dialogue. You can turn on subtitles for any video/audio source in Chrome using *Live Captions*, as well as in MS Teams under *Captions and transcripts*. It also lets you scroll up through the last few sentences. It has saved me many times.
 
 ![](/images/adhd/teams-captions.jpg)
 
-## Background
-
-I was formally diagnosed with ADHD in November 2023, and it seems like a common sentiment but looking back it seems incredibly obvious...
+## Some autobio
 
 In the weeks before my National 5s and Higher exams, my parents practically locked me at the kichen table each evening to revise. I preceeded to spend most of that time browsing Twitter or Facebook on my laptop, or doodling on my jotter, as the anxiety piled up 🤡
 
