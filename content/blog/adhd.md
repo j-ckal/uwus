@@ -12,7 +12,7 @@ I think for most of history ADHD was just termed *laziness*. Like, what do you m
 
 Excutive dysfunction is stigmatised, and it can be frustrating for others when not managed well. It's hard to blame people for expecting you to meet social conventions of percieved effort, but unfortunately brains and people are complicated.
 
-Basically, if the subject doesn't engage me at the time, it's difficult to initiate or process thoughts about how to do it. You just sort of sit there, head full of thoughts I don't want, that I can't stop, about things I don't want to care about. 
+Basically, if the subject doesn't engage me at the time, it's difficult to initiate or process thoughts about how to do it. You just sort of sit there, head full of thoughts you don't want, that you can't stop, about things you don't want to care about. 
 
 ...On the other hand, *ADHD brain* has an incredible capacity for intuiting things through guesswork and iteration. This didn't work well in school unfortunately, where teachers were stumped at how I managed to (almost) correctly calculate long division without a scribble of working. This part does have its upsides though.
 
