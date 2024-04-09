@@ -51,7 +51,7 @@ In the weeks before my National 5s and Higher exams, my parents practically lock
 
 **It shouldn't have been a surprise when I took a big L 💀**
 
-I can't remember exactly what my grades were. A lot of the memory of that period of my life is blurry :(
+I can't remember exactly what my grades were. My recollection of that time of my life is blurry :(
 
 BUT basically I had to resit Maths and English as well as a couple other subjects. I got a B and C after resitting them the following year. Small W 💯
 
