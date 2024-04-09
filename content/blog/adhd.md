@@ -4,13 +4,29 @@ date = "2024-04-08T17:54:09+01:00"
 slug = 'adhd'
 +++
 
+## Strategies that work for me
+
+Everyone's brain is different, I've had mixed success with different methods of learning/planning/paying attention but I'm sure they won't work for everyone. 
+
+Putting some here so I remember them.
+
+- **Don't get lost in structure/planning.** Playing around with productivity tools is fun, whenever I find a new shiny *habit tracker*/pomodoro app/planning tool like Notion, I'll inevitably spend countless hours deciding how I'm gonna use it, then never track a real task. Personally I use the stock Reminders, Calendar, Email & Notes apps.
+
+- **Start building things before you're ready.** Build on top of the quickstart tutorial, learn by doing.
+
+- **Learn in varied formats.** If I'm reading a book I'm much more likely to finish it if I also have the audiobook version. It's nice listening while moving.
+
+- **Take breaks.** Ye.
+
+## Background
+
 I was formally diagnosed with ADHD in November 2023, and it seems like a common sentiment but looking back it seems incredibly obvious...
 
 In the weeks before my National 5s and Higher exams, my parents practically locked me at the kichen table each evening to revise. I preceeded to spend most of that time browsing Twitter or Facebook on my laptop, or doodling on my jotter, as the anxiety piled up 🤡
 
 ![](/images/adhd/dog-homework.jpeg)
 
-**It shouldn't have been a surprise when I took a fat L 💀**
+**It shouldn't have been a surprise when I took a big L 💀**
 
 I can't remember exactly what my grade were, but I had to resit Maths and English as well as a couple other subjects. I guess I got a B and C after resitting them the following year. Small W 💯
 
@@ -32,9 +48,9 @@ Does the ability to concentrate vary for most people week to week, assuming no e
 
 ![](/images/adhd/adhdmeme.jpg)
 
-Like everyone else, since my diagnosis I've been drowning in recommended content on *ADHD Life Hacks* and *Therapists Reacting to ADHD TikToks* as I've been looking to learn more about the disorder. 
+Like everyone else, since my diagnosis I've been drowning in recommended content on *ADHD Life Hacks* and *Therapists Reacting to ADHD TikToks* as I've been looking to learn more about the disorder. A lot of them are relatable, but I'm not sure how much of it is actually related/an actual symptom.
 
-[HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)'s YouTube videos on ADHD have been useful - both to learn more and to see it through the *epic gamer nerd* lense. I've had more success with some of his strategies than most.
+[HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)'s YouTube videos on ADHD have been useful - both to learn more and to see it through the lens of an *epic gamer*. I've had more success with some of his strategies than most.
 
 Currently investigating meds, will report back but the NHS waiting list is between 18-24 months. Check back then lads/shes/gays/theys 👍
 
