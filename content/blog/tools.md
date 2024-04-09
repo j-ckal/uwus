@@ -1,6 +1,7 @@
 +++
 title = "Useful tools"
 date = "2024-04-07T16:28:18+01:00"
+slug = 'tools'
 +++
 
 I'm transferring my website over to [Hugo](https://gohugo.io) so this list is from my original website, with a few added extras whenver I remember to update it.
