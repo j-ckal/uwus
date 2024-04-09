@@ -22,7 +22,7 @@ Putting some here so I remember them.
 
 - **Be wary of addiction.** Vaping is expensive & TikTok fries your dopamine receptors.
 
-- **Turn on subtitles everywhere!** Watching TV/movies with subtitles on is apparently sacrilege to some 🫣 It helps when I'm tired or when my tiny TV speakers are struggle to decypher dialogue. You can turn on subtitles for any video/audio source in Chrome using *Live Captions*, as well as in MS Teams under *Captions and transcripts*. It has saved me many times.
+- **Turn on subtitles everywhere!** Watching TV/movies with subtitles on is apparently sacrilege 🫣 It helps when I'm tired or when my tiny TV speakers struggle to decypher dialogue. You can turn on subtitles for any video/audio source in Chrome using *Live Captions*, as well as in MS Teams under *Captions and transcripts*. It also lets you scroll up through the last few sentences. It has saved me many times.
 
 ![](/images/adhd/teams-captions.jpg)
 
