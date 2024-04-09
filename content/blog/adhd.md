@@ -10,7 +10,7 @@ I was formally diagnosed with ADHD in November 2023, and it seems like a common 
 
 I think for most of history ADHD was just termed *laziness*. Like, what do you mean you can be given a simple task and spend the next hour looking out the window? (or staring at your phone, or scrolling through random documents on your computer...)
 
-Excutive dysfunction is stigmatised, and it can be frustrating for others when not managed well. It's hard to blame people for expecting you to meet social conventions of percieved effort, but unfortunately brains and people are complicated.
+Executive dysfunction is stigmatised, and it can be frustrating for others when not managed well. It's hard to blame people for expecting you to meet social conventions of perceived effort, but unfortunately, brains and people are complicated.
 
 Basically, if the subject doesn't engage me at the time, it's difficult to initiate or process thoughts about how to do it. You just sort of sit there, head full of thoughts you don't want, that you can't stop, about things you don't want to care about. 
 
@@ -22,7 +22,7 @@ Everyone's brain is different, I've had mixed success with different methods of 
 
 Putting some here so I remember them.
 
-- **Don't get lost in structure/planning.** Productivity tools are fun. This is dangerous. whenever I find a new shiny *Habit Tracker*/Pomodoro App/Planning Tool (e.g. Notion), I'll inevitably spend hours deciding how I'm gonna use it, then never track a real task. Personally I use the stock Reminders, Calendar, Email & Notes apps 🗓️
+- **Don't get lost in structure/planning.** Productivity tools are fun. This is dangerous. whenever I find a new shiny *Habit Tracker*/Pomodoro App/Planning Tool (e.g. Notion), I'll inevitably spend hours deciding how I'm gonna use it, then never track a real task. Personally, I use the stock Reminders, Calendar, Email & Notes apps 🗓️
 
 - **Start building things before you're ready.** As soon as you have the idea/interest, start building on top of the [quick-start tutorial](https://gohugo.io/getting-started/quick-start/), learn by doing, etc. 💪
 
@@ -42,7 +42,7 @@ Putting some here so I remember them.
 
 ## Some autobio
 
-In the weeks before my National 5s and Higher exams, my parents practically locked me at the kichen table each evening to revise. I preceeded to spend most of that time browsing Twitter or Facebook on my laptop, or doodling on my jotter, as the anxiety piled up 🤡
+In the weeks before my National 5s and Higher exams, my parents practically locked me at the kitchen table each evening to revise. I proceeded to spend most of that time browsing Twitter or Facebook on my laptop, or doodling on my jotter, as the anxiety piled up 🤡
 
 ![](/images/adhd/dog-homework.jpeg)
 
@@ -50,7 +50,7 @@ In the weeks before my National 5s and Higher exams, my parents practically lock
 
 I can't remember exactly what my grade were, but I had to resit Maths and English as well as a couple other subjects. I guess I got a B and C after resitting them the following year. Small W 💯
 
-I'm familar with the feeling now but I wasn't sure what it was at the time - the frustration and physical tension I felt running through practice papers stuck in revision jail, but at the time I heard everyone hates exams too. I was just lazy, I guess?
+I'm familiar with the feeling now but I wasn't sure what it was at the time - the frustration and physical tension I felt running through practice papers stuck in revision jail, but at the time I heard everyone hates exams too. I was just lazy, I guess?
 
 ![](/images/adhd/sadge.png)
 
@@ -64,7 +64,7 @@ I got more comfortable with learning through my time at university, but I suppos
 
 **Compulsory learning on a topic I'm not interested in and/or has no immediate use to me is still tragic scenes 🫡**
 
-Does the ability to concentrate vary for most people week to week, assuming no external circumstance changes? I'll have a really productive week, run and exercise consistently, feel great about it, make a concious effort to repeat that, then spend the following week depressed at how little I achieved.
+Does the ability to concentrate vary for most people week to week, assuming no external circumstance changes? I'll have a really productive week, run and exercise consistently, feel great about it, make a conscious effort to repeat that, then spend the following week depressed at how little I achieved.
 
 ![](/images/adhd/adhdmeme.jpg)
 
