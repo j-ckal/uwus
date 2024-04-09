@@ -16,7 +16,7 @@ Putting some here so I remember them.
 
 - **Learn in varied formats.** If I'm reading a book I'm much more likely to finish it if I also have the audiobook version. It's nice listening while moving.
 
-- **Take breaks.** Ye.
+- **Take breaks.** Little & often innit 👍 Know when your brain is mush.
 
 ## Background
 
