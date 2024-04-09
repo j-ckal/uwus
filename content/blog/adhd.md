@@ -15,6 +15,8 @@ Executive dysfunction is stigmatised, and it can be frustrating for others when 
 
 Basically, if the subject doesn't engage me at the time, it's difficult to initiate or process thoughts about how to do it. You just sort of sit there, head full of thoughts you don't want, that you can't stop, about things you don't want to care about. 
 
+![](/images/adhd/me.jpg)
+
 ...On the other hand, *ADHD brain* has an incredible capacity for intuiting things through guesswork and iteration. This didn't work well in school unfortunately, where teachers were stumped at how I managed to (almost) correctly calculate long division without a scribble of working. This part does have its upsides though.
 
 ## Strategies that work for me
@@ -49,9 +51,11 @@ In the weeks before my National 5s and Higher exams, my parents practically lock
 
 **It shouldn't have been a surprise when I took a big L 💀**
 
-I can't remember exactly what my grade were, but I had to resit Maths and English as well as a couple other subjects. I guess I got a B and C after resitting them the following year. Small W 💯
+I can't remember exactly what my grades were. A lot of the memory of that period of my life is blurry :(
 
-I'm familiar with the feeling now but I wasn't sure what it was at the time - the frustration and physical tension I felt running through practice papers stuck in revision jail, but at the time I heard everyone hates exams too. I was just lazy, I guess?
+BUT basically I had to resit Maths and English as well as a couple other subjects. I got a B and C after resitting them the following year. Small W 💯
+
+I'm familiar with the feeling now but I wasn't sure what it was at the time - the frustration and physical tension I felt trying to run through practice exam papers, stuck in revision jail, but at the time I heard everyone hates exams too. I was just cranky and/or lazy, I guess?
 
 ![](/images/adhd/sadge.png)
 
