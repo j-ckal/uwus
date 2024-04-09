@@ -18,9 +18,13 @@ Putting some here so I remember them.
 
 - **Take breaks.** Little & often innit 👍 Know when your brain is mush.
 
-- **Try not to overstimulate yourself.** It's tempting to listen to music/podcasts/YouTube every waking minute for me, but it definitely tricks my brain into thinking I've achieved something when I hear an interesting story or concept explained instead of doing what I planned to do 😭 Also quiet time is important for learning & forming memories so **STOP CONSOOOOOMING**.
+- **Try not to overstimulate yourself.** It's tempting to listen to music/podcasts/YouTube every waking minute for me, but it definitely tricks my brain into thinking I've achieved something when I hear an interesting story or concept explained instead of doing what I planned to do 😭 Also quiet time is important for learning & forming memories so **STOP CONSOOMING!**
 
-- **Be wary of addiction.** Vaping is expensive & TikTok melts your brain 💀
+- **Be wary of addiction.** Vaping is expensive & TikTok fries your dopamine receptors.
+
+- **Turn on subtitles everywhere!** Watching TV/movies with subtitles on is apparently sacrilege to some 🫣 It helps when I'm tired or when my tiny TV speakers are struggle to decypher dialogue. You can turn on subtitles for any video/audio source in Chrome using *Live Captions*, as well as in MS Teams under *Captions and transcripts*. It has saved me many times.
+
+![](/images/adhd/teams-captions.jpg)
 
 ## Background
 
