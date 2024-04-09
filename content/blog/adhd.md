@@ -20,7 +20,7 @@ Putting some here so I remember them.
 
 - **Try not to overstimulate yourself.** It's tempting to listen to music/podcasts/YouTube every waking minute for me, but it definitely tricks my brain into thinking I've achieved something when I hear an interesting story or concept explained instead of doing what I planned to do 😭 Also quiet time is important for learning & forming memories so **STOP CONSOOOOOMING**.
 
-- **Stay faaaaar away from any potential addictions.** Vaping is expensive :(
+- **Be wary of addiction.** Vaping is expensive & TikTok melts your brain 💀
 
 ## Background
 
