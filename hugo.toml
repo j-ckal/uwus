@@ -1,6 +1,6 @@
 baseURL = "https://uwus.org"
 theme = 'hugo-bearblog'
-title = "𐂂"
+title = "🦌"
 languageCode = "en-gb"
 
 disableKinds = ["taxonomy"]
