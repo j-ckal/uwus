@@ -1,5 +1,5 @@
 # Hey, I'm Jack
-(he/him) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕺🏼 🏳️‍🌈
+## (he/him) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕺🏼 🏳️‍🌈
 
 I'm a cyber security consultant from Scotland, currently living in London.
 
