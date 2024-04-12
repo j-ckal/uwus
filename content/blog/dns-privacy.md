@@ -6,7 +6,7 @@ slug = "dns-privacy"
 
 The subject of privacy, surveillance and online security is a *unsightly* can of worms. I wanted to put together a short guide on tackling one aspect - DNS. 
 
-### What's DNS!
+### What's DNS?
 
 It stands for Domain Name System, and it is used to associate domain names (such as [google.com](https://google.com), or [uwus.org](https://uwus.org) 😏) with IP addresses that individually identify servers on the internet - try going to [216.58.206.67](http://216.58.206.67) or [172.67.205.111](http://172.67.205.111)!)
 
@@ -22,7 +22,7 @@ However! In order to navigate to a website, DNS is still required to resolve ASO
 
 On the good side, once the top-level domain has been resolved (if HTTPS is used) snoopers won't be able to tell which specific page of the website you're on (e.g. not *ASOS.com/cute-sexy-sunglasses*, only *ASOS.com*). This might be fine by you, and in that case you can stop here.
 
-### What if it's not fine by me
+### What if it's not fine by me!
 
 Secure DNS is supported by most modern browsers and devices. Before making changes, I'd suggest you do some research on which DNS provider you'd like to go with. 
 
