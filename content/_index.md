@@ -1,7 +1,7 @@
 # Hey, I'm Jack
-### (he/him) 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕺🏼 🏳️‍🌈
+### he/him | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕺🏼 🏳️‍🌈 | 📍 London
 
-I'm a cyber security consultant from Scotland, currently living in London.
+I'm a cyber security consultant from Scotland.
 
 I'm interested in tech, hacking/security, politics, effective infrastructure, photography and noisy music.
 
