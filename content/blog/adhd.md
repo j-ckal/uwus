@@ -75,6 +75,6 @@ Like everyone else, since my diagnosis I've been drowning in recommended content
 
 [HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG)'s YouTube videos on ADHD have been useful - both to learn more and to see it through the lens of an *epic gamer*. I've had more success with some of his strategies than most.
 
-Currently investigating meds, will report back but the NHS waiting list is between 18-24 months. Check back then lads/shes/gays/theys 👍
+Currently investigating meds, will report back but the NHS waiting list is between 18-24 months. Check back then folks 👍
 
 ![](/images/adhd/penguin-dance.gif)
