@@ -4,7 +4,7 @@ date = "2024-04-12T18:33:05+01:00"
 slug = "dns-privacy"
 +++
 
-The subject of privacy, surveillance and online security is certainly a can of worms. I wanted to put together a short guide on tackling one aspect - DNS. 
+The subject of privacy, surveillance and online security is a *unsightly* can of worms. I wanted to put together a short guide on tackling one aspect - DNS. 
 
 ### What's DNS!
 
