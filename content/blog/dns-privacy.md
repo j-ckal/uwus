@@ -20,11 +20,11 @@ This is great, and it means attackers can't intercept sensitive information like
 
 However! In order to navigate to a website, DNS is still required to resolve ASOS.com to 123.456.789, and anyone snooping will have a comprehensive log of the domains you're visiting. This can be used by bad guys, network administrators or advertisers to build a profile on the services you use.
 
-On the good side, once the top-level domain has been resolved, if HTTPS is used snoopers won't be able to tell the specific page of the website you're on (e.g. not ASOS.com/cute-sexy-sunglasses, only ASOS.com). This might be fine with you, and in that case you can stop here.
+On the good side, once the top-level domain has been resolved, if HTTPS is used snoopers won't be able to tell the specific page of the website you're on (e.g. not *ASOS.com/cute-sexy-sunglasses*, only *ASOS.com*). This might be fine with you, and in that case you can stop here.
 
 ### What you can do
 
-Secure DNS is supported in most modern browsers and devices. Before making changes, I'd suggest you do some research on which DNS provider you'd like to go with. 
+Secure DNS is supported by most modern browsers and devices. Before making changes, I'd suggest you do some research on which DNS provider you'd like to go with. 
 
 Personally I use [Quad9](https://www.quad9.net/), a non-profit provider [funded by IBM, PCH and GCA](https://www.quad9.net/news/blog/quad9-and-your-data/).
 [Google](https://developers.google.com/speed/public-dns/docs/using) and [Cloudflare](https://one.one.one.one/) also offer private DNS services.
