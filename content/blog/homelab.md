@@ -15,7 +15,7 @@ I've been tinkering with secondary computers since I got a Pi 3B for my birthday
 
 ![](/images/homelab/hp.jpg)
 
-I found this back in February, and aside from looking like it was pulled from a school computer lab, it checked all my boxes:
+I found this *supercar* of a machine in February 2023, and aside from looking like it was pulled from a school computer lab, it checked all my boxes:
 
 - Power efficient - Reasonably modern T-sku CPU (Full support for [ACPI C-states](https://metebalci.com/blog/a-minimum-complete-tutorial-of-cpu-power-management-c-states-and-p-states/)), uses approx 5W while idle
 - Hyperthreading for multithreaded workloads
