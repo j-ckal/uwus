@@ -12,7 +12,7 @@ It stands for Domain Name System, and it is used to associate domain names (such
 
 ### Privacy?
 
-According to Google, around [90%](https://9to5google.com/2023/08/16/chrome-https-first-mode/)) of web traffic nowadays uses the HTTPS protocol. This protocol ensures traffic between your browser and the website is verified and encrypted, meaning if anyone is snooping on your network all they'll see is gibberish. 
+According to Google, around [90%](https://9to5google.com/2023/08/16/chrome-https-first-mode/) of web traffic nowadays uses the HTTPS protocol. This protocol ensures traffic between your browser and the website is verified and encrypted, meaning if anyone is snooping on your network all they'll see is gibberish. 
 
 This is great, and it means attackers can't intercept sensitive information like card details when you're shopping online, as much as VPN providers would like to convince you otherwise.
 
