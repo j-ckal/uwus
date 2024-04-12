@@ -73,7 +73,7 @@ Does the ability to concentrate vary for most people week to week, assuming no e
 
 Like everyone else, since my diagnosis I've been drowning in recommended content on *ADHD Life Hacks* and *Therapists Reacting to ADHD TikToks* as I've been looking to learn more about the disorder. A lot of them are relatable, but I'm not sure how much of it is actually related/an actual symptom.
 
-[Dr. K's](https://www.youtube.com/watch?v=HN5BoBlY0MU) YouTube videos on ADHD have been useful - both to learn more and to see it through the lens of an *epic gamer*. I've had more success with some of his strategies than most.
+[Dr. K's](https://www.youtube.com/watch?v=HN5BoBlY0MU) YouTube videos on ADHD have been useful - I've had more success with some of his strategies than most.
 
 Currently investigating meds, will report back but the NHS waiting list is between 18-24 months. Check back then folks 👍
 
