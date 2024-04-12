@@ -71,7 +71,7 @@ Does the ability to concentrate vary for most people week to week, assuming no e
 
 ![](/images/adhd/adhdmeme.jpg)
 
-Like everyone else, since my diagnosis I've been drowning in recommended content on *ADHD Life Hacks* and *Therapists Reacting to ADHD TikToks* as I've been looking to learn more about the disorder. A lot of them are relatable, but I'm not sure how much of it is actually related/an actual symptom.
+Like everyone else, since my diagnosis I've been drowning in recommended content on *ADHD Life Hacks* and *Therapists Reacting to ADHD TikToks* as I've been looking to learn more about the disorder. A lot of them are relatable, but I'm not sure how much of it is actually related/a symptom.
 
 [Dr. K's](https://www.youtube.com/watch?v=HN5BoBlY0MU) YouTube videos on ADHD have been useful - I've had more success with some of his strategies than most.
 
