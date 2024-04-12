@@ -35,7 +35,7 @@ Putting some here so I remember them.
 
 - **Take notes.** In whatever format you're feeling at the time. My notes app is a flurry of voice notes, rambles (that I based this post on), images, etc. Sort as much as you prefer, but keyword search is good enough for me.
 
-- **Try not to overstimulate yourself.** It's tempting to listen to music/podcasts/YouTube every waking minute, but it tricks my brain into feeling productive when I hear an interesting story or concept explained instead of doing what I planned to do 😭 ...Also quiet time is important for learning & forming memories so **STOP OVERCONSOOMING!**
+- **Try not to overstimulate yourself.** It's tempting to listen to music/podcasts/YouTube every waking minute, but it tricks my brain into feeling productive when I hear an interesting story or concept explained instead of doing what I planned to do 😭 ...Also quiet time is important for learning & forming memories so **STOP OVERCONSUMING!**
 
 - **Be wary of addiction.** Vaping is expensive & TikTok fries your dopamine receptors. Good luck.
 
@@ -49,11 +49,9 @@ In the weeks before my National 5s and Higher exams, my parents practically lock
 
 ![](/images/adhd/dog-homework.jpeg)
 
-**It shouldn't have been a surprise when I took a big L 💀**
+**It shouldn't have been a surprise when I bombed it 💀**
 
-I can't remember exactly what my grades were. My recollection of that time of my life is blurry :(
-
-BUT basically I had to resit Maths and English as well as a couple other subjects. I got a B and C after resitting them the following year. Small W 💯
+Basically I had to resit Maths and English as well as a couple other subjects. I got a B and C after resitting them the following year. Small win! 💯
 
 I'm familiar with the feeling now but I wasn't sure what it was at the time - the frustration and physical tension I felt trying to run through practice exam papers, stuck in revision jail, but at the time I heard everyone hates exams too. I was just cranky and/or lazy, I guess?
 
