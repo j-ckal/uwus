@@ -39,6 +39,8 @@ Personally I use [Quad9](https://www.quad9.net/), a non-profit provider [funded 
 
 Server name indication might still out you. SNI is the first step in a TLS handshake, the protocol used to secure your HTTPS traffic. Encrypted SNI is slowly becoming more common though and, if you want, you can read more about it on [Cloudflare's website](https://www.cloudflare.com/en-gb/learning/ssl/what-is-encrypted-sni/).
 
+Sadly there's endless other ways to uniquely identify you online, using [JavaScript fingerprinting](https://amiunique.org/), [tracking cookies](https://www.malwarebytes.com/cybersecurity/computer/what-are-tracking-cookies), unique subdomain access etc. An *unsightly can of worms*. Browse safely 🫡
+
 I was going to rant more about unethical VPN advertising but now my fingys and brain are tired (and it's 7PM on a Friday) so maybe I'll get back to that another time.
 
 That's all for now :)
