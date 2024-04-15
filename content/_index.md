@@ -7,4 +7,4 @@ I'm interested in tech, hacking/security, politics, effective infrastructure, ph
 
 You can find me on [Twitter](https://twitter.com/jackal_lol), [LinkedIn](https://linkedin.com/in/jb46), [GitHub](https://github.com/j-ckal) & [Unsplash](https://unsplash.com/@j_ckal)
 
-If you'd like to chat, my email is jack@imap.cc 😎
+If you'd like to chat, my email is jack@imap.cc
