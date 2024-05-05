@@ -1,5 +1,5 @@
 # Hey, I'm Jack
-### he/him 👋 | London 📍
+### he/him 👋 London 📍
 
 I'm a cyber security consultant from Scotland.
 
